@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/responsive-app/static/css/main.2f85a603.chunk.css",
+    "main.css": "/responsive-app/static/css/main.c235513d.chunk.css",
     "main.js": "/responsive-app/static/js/main.79c810e5.chunk.js",
     "main.js.map": "/responsive-app/static/js/main.79c810e5.chunk.js.map",
     "runtime-main.js": "/responsive-app/static/js/runtime-main.feae79bc.js",
@@ -10,14 +10,14 @@
     "static/js/3.ae2c5401.chunk.js": "/responsive-app/static/js/3.ae2c5401.chunk.js",
     "static/js/3.ae2c5401.chunk.js.map": "/responsive-app/static/js/3.ae2c5401.chunk.js.map",
     "index.html": "/responsive-app/index.html",
-    "static/css/main.2f85a603.chunk.css.map": "/responsive-app/static/css/main.2f85a603.chunk.css.map",
+    "static/css/main.c235513d.chunk.css.map": "/responsive-app/static/css/main.c235513d.chunk.css.map",
     "static/js/2.444b0d67.chunk.js.LICENSE.txt": "/responsive-app/static/js/2.444b0d67.chunk.js.LICENSE.txt",
     "static/media/SignUp.css": "/responsive-app/static/media/bg.bf33d688.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.feae79bc.js",
     "static/js/2.444b0d67.chunk.js",
-    "static/css/main.2f85a603.chunk.css",
+    "static/css/main.c235513d.chunk.css",
     "static/js/main.79c810e5.chunk.js"
   ]
 }
